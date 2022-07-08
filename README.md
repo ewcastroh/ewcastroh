@@ -71,10 +71,8 @@ Password: 12345
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
+  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewcastroh&layout=compact&theme=chartreuse-dark" />
   <img align="" src="https://github-readme-stats.vercel.app/api?username=ewcastroh&repo=github-readme-stats&theme=chartreuse-dark&show_icons=true" />
-</p>
-<p align="center">
-  <img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ewcastroh&layout=compact" />
 </p>
 <p align="center">
   <img align="" src="https://visitor-badge.laobi.icu/badge?page_id=ewcastroh.ewcastroh" />
