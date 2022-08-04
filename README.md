@@ -66,8 +66,7 @@ Password: 12345
 
 ## 🌐 &nbsp;&nbsp;Find me around the web:
 - Talking and sharing in <a href="https://twitter.com/ewcastroh"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
-- More about my work in <a href="https://www.linkedin.com/in/ewcastroh/">Linkedin</a>
-- - More about my work in <a href="https://www.linkedin.com/in/ewcastroh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+- More about my work in <a href="https://www.linkedin.com/in/ewcastroh"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 ## 📈 &nbsp;&nbsp;Some of my stats are:
 <p align="center">
