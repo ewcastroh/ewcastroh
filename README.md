@@ -3,8 +3,7 @@
 I am a Software Engineer with over 8 years of experience as a Full Stack Developer. I have developed web applications using Full Stack technologies like Java in Backend. HTML, JavaScript, CSS, and Angular in Frontend and working CI/CD. I am a responsible, agile, and self-taught developer analyzing and proposing quality solutions. I like to update my knowledge continually with cutting-edge technologies in software development. I enjoy coding and improving my skills with clean and extensible good practices.
 
 👨‍💻 &nbsp;Currently, I am learning
-- ⛓&nbsp;Blockchain(Solidity)
-- ⚛&nbsp;React
+- ⛓&nbsp;GenAI
 
 💬 &nbsp;You can contact me if I can help you with something. I will be glad to help you.
 
